@@ -2,53 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>技术一哥</title>
   
+  <subtitle>天行健 君子以自强不息 | 地势乾 君子以厚德载物</subtitle>
+  <link href="https://731751218.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
-  <updated>2021-03-11T09:22:10.245Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://731751218.github.io/"/>
+  <updated>2021-03-12T07:27:44.037Z</updated>
+  <id>https://731751218.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>技术一哥</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我的第一篇博客文章</title>
-    <link href="http://example.com/2021/03/11/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
-    <id>http://example.com/2021/03/11/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
-    <published>2021-03-11T09:20:56.000Z</published>
-    <updated>2021-03-11T09:22:10.245Z</updated>
+    <title>初始Hexo</title>
+    <link href="https://731751218.github.io/2021/03/12/%E5%88%9D%E5%A7%8BHexo/"/>
+    <id>https://731751218.github.io/2021/03/12/%E5%88%9D%E5%A7%8BHexo/</id>
+    <published>2021-03-12T07:25:13.000Z</published>
+    <updated>2021-03-12T07:27:44.037Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h1><h3 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h3>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;第一篇文章&quot;&gt;&lt;a href=&quot;#第一篇文章&quot; class=&quot;headerlink&quot; title=&quot;第一篇文章&quot;&gt;&lt;/a&gt;第一篇文章&lt;/h1&gt;&lt;h3 id=&quot;内容&quot;&gt;&lt;a href=&quot;#内容&quot; class=&quot;headerlink&quot; title=&quot;内容&quot;&gt;&lt;/a&gt;内</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2021/03/11/hello-world/"/>
-    <id>http://example.com/2021/03/11/hello-world/</id>
-    <published>2021-03-11T09:18:04.129Z</published>
-    <updated>2021-03-11T09:18:04.129Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="初始-Hexo"><a href="#初始-Hexo" class="headerlink" title="初始 Hexo"></a>初始 Hexo</h2><h3 id="超快速度"><a href="#超快速度" class="headerlink" title="超快速度"></a>超快速度</h3><p>Node.js 所带来的超快生成速度，让上百个页面在几秒内瞬间完成渲染。</p><h3 id="支持-Markdown"><a href="#支持-Markdown" class="headerlink" title="支持 Markdown"></a>支持 Markdown</h3><p>Hexo 支持 GitHub Flavored Markdown 的所有功能，甚至可以整合 Octopress 的大多数插件。</p><h3 id="一键部署"><a href="#一键部署" class="headerlink" title="一键部署"></a>一键部署</h3><p>只需一条指令即可部署到 GitHub Pages, Heroku 或其他平台。</p><h3 id="插件和可扩展性"><a href="#插件和可扩展性" class="headerlink" title="插件和可扩展性"></a>插件和可扩展性</h3><p>强大的 API 带来无限的可能，与数种模板引擎（EJS，Pug，Nunjucks）和工具（Babel，PostCSS，Less/Sass）轻易集成</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h2 id=&quot;初始-Hexo&quot;&gt;&lt;a href=&quot;#初始-Hexo&quot; class=&quot;headerlink&quot; title=&quot;初始 Hexo&quot;&gt;&lt;/a&gt;初始 Hexo&lt;/h2&gt;&lt;h3 id=&quot;超快速度&quot;&gt;&lt;a href=&quot;#超快速度&quot; class=&quot;headerlink&quot; titl</summary>
       
     
     
